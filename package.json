@@ -1,0 +1,15 @@
+{
+  "name": "backend-advance",
+  "version": "1.0.0",
+  "description": "advance backend started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Aman",
+  "license": "ISC"
+}
